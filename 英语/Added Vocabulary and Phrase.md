@@ -1,4 +1,4 @@
-## 9.14
+### 9.14
 **dethrone** ${}\to{}$ de- + throne  
   - throne n.王位  
   - the game of throne,权利的游戏  
@@ -74,3 +74,94 @@ compulsory n.必修课
 
 semester n.学期  
 - quarter n.短学期
+
+### 9.21
+**med-**: middle
+mediocre adj.中等平庸的，不太好的
+medium adj. n.
+media n.媒体
+intermediate adj. 中间的，中等的
+- intermedia English -> advanced English
+mediate v.调停
+meddle in: intervene in/ interfere in
+median n.中位数
+mean n.平均数
+
+distinguish A from B
+
+be forgiving of/ tolerate of
+
+come in: be turned in/ be handed in/ submitted 上交
+
+**effort**
+- make/spare every effort to do
+
+**deadline**
+sb. meet/ miss the deadline for 赶上/错过DDL
+by (date) deadline
+- I must get the paper finished by Thursday's deadline
+set a deadline of
+- I set a deadline of September
+
+**image**
+imaginable
+- she tries every imaginable way
+imaginary
+imaginate
+
+**abuse**
+be subject to a stream of abuse
+verbal abuse
+abuse privilege
+abuse none's trust
+frug abuse; alcohol abuse
+
+**record**
+- in record进记录
+- break record破纪录
+- on the record记录在案
+- off the record私下活动(=off the table)
+
+**privilege**
+>privi- + -lege
+- privi -> private
+- lege -> legal
+- combining the meanings, privilege is "the private legal"
+### 9.23
+
+**make it**
+- nail it
+- manage something
+- make it to a place艰难地到达
+
+**get away with**逃脱
+- do away with
+- get away from
+- break away from
+#### 9.28
+**vis:** see
+- vision
+- visionary adj.有远见的，愿意前看的
+- visual 
+- visualization
+- revise revision
+- devise: design
+- supervise v. 监督，监控
+- supervision, supervisor
+- vista 看天下
+
+弹幕
+bullet screen/
+bullet comment/
+bullet chat/
+Time-sync comment/
+Danmu
+
+traffic-first age流量至上时代
+catch n. 陷阱
+cut into the revenues 减少收入
+slam dunk 轻而易举的
+frantically search 手忙脚乱地搜寻
+dead silence 一片沉默
+vice versa 反之亦然
+i.e. that is

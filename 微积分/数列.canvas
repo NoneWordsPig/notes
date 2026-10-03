@@ -1,0 +1,41 @@
+{
+	"nodes":[
+		{"id":"f50b57e673473ff4","type":"text","text":"定义：${}\\mathbb{N}{}$指向${}\\mathbb{R}{}$的映射","x":-320,"y":-260,"width":200,"height":60},
+		{"id":"e907edf4f966736d","type":"text","text":"生成方式","x":-40,"y":-260,"width":100,"height":60},
+		{"id":"e43bb96a4e4848a9","type":"text","text":"性质","x":-320,"y":-40,"width":77,"height":60},
+		{"id":"7de7cf2dae2ea7e4","type":"text","text":"单调性","x":-40,"y":-100,"width":97,"height":60},
+		{"id":"21e0b6f45cc092e5","type":"text","text":"有界性（收敛性）","x":-40,"y":20,"width":157,"height":60},
+		{"id":"e7d66a5bb2fb6e3e","type":"text","text":"常用极限（肉眼观测感受）","x":435,"y":-60,"width":225,"height":60},
+		{"id":"c7958502dd5a36cb","type":"text","text":"极限的性质","x":435,"y":20,"width":128,"height":60},
+		{"id":"e7fe2dcae41a7682","type":"text","text":"极限的四则运算","x":435,"y":100,"width":155,"height":60},
+		{"id":"f4a1f3d0853130a5","type":"text","text":"极限${}\\varepsilon-N{}$","x":191,"y":20,"width":120,"height":60},
+		{"id":"c76c4177cd9b829b","type":"text","text":"通项","x":191,"y":-320,"width":100,"height":60},
+		{"id":"17fd3aca0dc7fbbf","type":"text","text":"递推","x":191,"y":-200,"width":85,"height":60},
+		{"id":"532fcd7781744a52","type":"text","text":"数列","x":-480,"y":-160,"width":70,"height":60},
+		{"id":"f58549b608fedf22","type":"text","text":"夹逼定理","x":660,"y":-160,"width":112,"height":50},
+		{"id":"ba3c9711f098dceb","x":-40,"y":160,"width":157,"height":60,"type":"text","text":"单调收敛准则"},
+		{"id":"6efd34ec6f3ad40c","type":"text","text":"有界性：有极限即有上下界 ","x":800,"y":-30,"width":250,"height":60},
+		{"id":"937f81b2dd6b9571","type":"text","text":"保号性：从某项开始与极限同号","x":800,"y":70,"width":266,"height":60},
+		{"id":"07b2cba46b03bd75","x":800,"y":160,"width":250,"height":60,"type":"text","text":"比较性：极限大则通项大"},
+		{"id":"606105a0c1ebf925","type":"text","text":"唯一性：数列极限唯一","x":800,"y":-120,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"5217d358f6fdf28c","fromNode":"532fcd7781744a52","fromSide":"right","toNode":"f50b57e673473ff4","toSide":"left"},
+		{"id":"3f494ab1e1af35b4","fromNode":"f50b57e673473ff4","fromSide":"right","toNode":"e907edf4f966736d","toSide":"left"},
+		{"id":"3cadcca6e80f0213","fromNode":"e907edf4f966736d","fromSide":"right","toNode":"c76c4177cd9b829b","toSide":"left"},
+		{"id":"3ff600cc5f5e8d48","fromNode":"e907edf4f966736d","fromSide":"right","toNode":"17fd3aca0dc7fbbf","toSide":"left"},
+		{"id":"a3c45822b6c85b89","fromNode":"532fcd7781744a52","fromSide":"right","toNode":"e43bb96a4e4848a9","toSide":"left"},
+		{"id":"a305c342839f764a","fromNode":"e43bb96a4e4848a9","fromSide":"right","toNode":"21e0b6f45cc092e5","toSide":"left"},
+		{"id":"ddb006405bf479d4","fromNode":"e43bb96a4e4848a9","fromSide":"right","toNode":"7de7cf2dae2ea7e4","toSide":"left"},
+		{"id":"c3dafdaa833f5b75","fromNode":"21e0b6f45cc092e5","fromSide":"right","toNode":"f4a1f3d0853130a5","toSide":"left"},
+		{"id":"b916112a044fa906","fromNode":"f4a1f3d0853130a5","fromSide":"right","toNode":"e7d66a5bb2fb6e3e","toSide":"left"},
+		{"id":"dec8247d7013507b","fromNode":"f4a1f3d0853130a5","fromSide":"right","toNode":"c7958502dd5a36cb","toSide":"left"},
+		{"id":"e8978ab1912aae40","fromNode":"f4a1f3d0853130a5","fromSide":"right","toNode":"e7fe2dcae41a7682","toSide":"left"},
+		{"id":"952f73a0247638fb","fromNode":"c7958502dd5a36cb","fromSide":"right","toNode":"606105a0c1ebf925","toSide":"left"},
+		{"id":"ef78d881d836c13d","fromNode":"c7958502dd5a36cb","fromSide":"right","toNode":"6efd34ec6f3ad40c","toSide":"left"},
+		{"id":"95f813bbe3376aa9","fromNode":"c7958502dd5a36cb","fromSide":"right","toNode":"937f81b2dd6b9571","toSide":"left"},
+		{"id":"2906b39fcfba8d6d","fromNode":"e7d66a5bb2fb6e3e","fromSide":"top","toNode":"f58549b608fedf22","toSide":"left"},
+		{"id":"6a8fef7463c39be2","fromNode":"21e0b6f45cc092e5","fromSide":"bottom","toNode":"ba3c9711f098dceb","toSide":"top"},
+		{"id":"ff3a87f064d9beda","fromNode":"c7958502dd5a36cb","fromSide":"right","toNode":"07b2cba46b03bd75","toSide":"left"}
+	]
+}
