@@ -165,3 +165,30 @@ frantically search 手忙脚乱地搜寻
 dead silence 一片沉默
 vice versa 反之亦然
 i.e. that is
+
+
+#### 10.10
+**liberal**
+- liberal-minded: open-minded
+- liberal art college
+- a liberal arts college
+- liberate v.
+- PLA
+- liberty n. 
+  - take the liberty of doing something 贸然
+  - be at liberty to do 有做某事的自由
+
+**-holic**: sb. who id obsessed with
+- workaholic
+- alcoholic
+- shopaholic
+- bookaholic
+
+Chief XXX Officer
+- Executive CEO
+- Finance CFO
+- Human Resource HR
+- Operation COO
+
+work from home 有办公室，短暂居家
+work at home 自由职业，长期在家

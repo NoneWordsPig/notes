@@ -8,15 +8,15 @@
 
 以下是原笔记中的 32 个经典 C 关键字，按用途重新分组：
 
-| 类别 | 关键字 |
-| --- | --- |
-| 基本类型 | `char`、`double`、`float`、`int`、`void` |
-| 类型修饰 | `signed`、`unsigned`、`short`、`long` |
-| 类型构造 | `enum`、`struct`、`union`、`typedef` |
-| 类型限定与运算 | `const`、`volatile`、`sizeof` |
-| 存储类别 | `auto`、`extern`、`register`、`static` |
-| 分支与循环 | `if`、`else`、`switch`、`case`、`default`、`for`、`while`、`do` |
-| 跳转 | `break`、`continue`、`goto`、`return` |
+| 类别      | 关键字                                                      |
+| ------- | -------------------------------------------------------- |
+| 基本类型    | `char`、`double`、`float`、`int`、`void`                     |
+| 类型修饰    | `signed`、`unsigned`、`short`、`long`                       |
+| 类型构造    | `enum`、`struct`、`union`、`typedef`                        |
+| 类型限定与运算 | `const`、`volatile`、`sizeof`                              |
+| 存储类别    | `auto`、`extern`、`register`、`static`                      |
+| 分支与循环   | `if`、`else`、`switch`、`case`、`default`、`for`、`while`、`do` |
+| 跳转      | `break`、`continue`、`goto`、`return`                       |
 
 也可以按字母顺序速查：
 
