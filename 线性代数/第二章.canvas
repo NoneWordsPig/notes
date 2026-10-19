@@ -1,0 +1,43 @@
+{
+	"nodes":[
+		{"id":"04ed373b9fcc4f87","x":-125,"y":-30,"width":125,"height":50,"color":"6","type":"text","text":"线性方程组"},
+		{"id":"8632ca5e928b969e","x":-110,"y":-160,"width":96,"height":53,"type":"text","text":"消元法"},
+		{"id":"cc01095b93a6ec3a","x":-187,"y":-300,"width":250,"height":60,"type":"text","text":"初等变换：交换、倍乘、倍加"},
+		{"id":"b4af8cfec3209713","x":-260,"y":-440,"width":109,"height":50,"type":"text","text":"系数矩阵"},
+		{"id":"28fcbd62e72fa677","x":13,"y":-440,"width":101,"height":50,"type":"text","text":"增广矩阵"},
+		{"id":"ad788caa4749bcdd","x":140,"y":-300,"width":189,"height":60,"type":"text","text":"矩阵的初等行列变换"},
+		{"id":"d415894f2e5479ad","x":420,"y":-380,"width":105,"height":51,"type":"text","text":"矩阵互化"},
+		{"id":"9042b4693cdeed8a","x":420,"y":-220,"width":125,"height":51,"type":"text","text":"阶梯形矩阵"},
+		{"id":"0f83992ada098c75","x":403,"y":-100,"width":159,"height":50,"type":"text","text":"约化阶梯形矩阵"},
+		{"id":"4ebee4a872b97f35","x":178,"y":-30,"width":113,"height":50,"type":"text","text":"矩阵的秩"},
+		{"id":"f342d2fa37474b99","x":57,"y":140,"width":136,"height":50,"type":"text","text":"矩阵的k阶子式"},
+		{"id":"32f82d4bc342924b","x":291,"y":140,"width":72,"height":50,"type":"text","text":"定义"},
+		{"id":"bc14b926a194b419","x":462,"y":135,"width":165,"height":60,"type":"text","text":"矩阵A中不为零的子式的最大阶数"},
+		{"id":"791767b48e67552a","x":0,"y":280,"width":250,"height":60,"type":"text","text":"一个矩阵中任意k行k列交叉处元素按原位置构成的k阶行列式"},
+		{"id":"5cce66377177edbb","x":291,"y":280,"width":250,"height":60,"type":"text","text":"满秩矩阵：$A=[a_{ij}]_{ n\\times n}$的秩为n"},
+		{"id":"de4af9713a0c809f","x":-460,"y":-30,"width":174,"height":50,"type":"text","text":"矩阵解线性方程组"},
+		{"id":"ef028fa4e250ca5f","x":-659,"y":-160,"width":199,"height":50,"type":"text","text":"$(r(A)<r(A|b)$，无解"},
+		{"id":"87d56530fd381ffa","x":-809,"y":-35,"width":250,"height":60,"type":"text","text":"$r(A)=r(A|b)=n$，有唯一解"},
+		{"id":"2e9fe88e1bcb759a","x":-725,"y":120,"width":265,"height":60,"type":"text","text":"$r(A)=r(A|b)<n$，无穷多组解"}
+	],
+	"edges":[
+		{"id":"92e6cb5c033dbc99","fromNode":"04ed373b9fcc4f87","fromSide":"top","toNode":"8632ca5e928b969e","toSide":"bottom"},
+		{"id":"a773ab59fef42840","fromNode":"8632ca5e928b969e","fromSide":"top","toNode":"cc01095b93a6ec3a","toSide":"bottom"},
+		{"id":"6a2c3ae42163877c","fromNode":"cc01095b93a6ec3a","fromSide":"top","toNode":"28fcbd62e72fa677","toSide":"bottom"},
+		{"id":"de5db318d3963193","fromNode":"cc01095b93a6ec3a","fromSide":"top","toNode":"b4af8cfec3209713","toSide":"bottom"},
+		{"id":"60873201bca55fee","fromNode":"cc01095b93a6ec3a","fromSide":"right","toNode":"ad788caa4749bcdd","toSide":"left"},
+		{"id":"2eb2d24c303d4c54","fromNode":"ad788caa4749bcdd","fromSide":"right","toNode":"d415894f2e5479ad","toSide":"left"},
+		{"id":"da338495bdfe93d5","fromNode":"ad788caa4749bcdd","fromSide":"right","toNode":"9042b4693cdeed8a","toSide":"left"},
+		{"id":"ae1760877393f7fd","fromNode":"9042b4693cdeed8a","fromSide":"bottom","toNode":"0f83992ada098c75","toSide":"top"},
+		{"id":"2f65362597f2a6b5","fromNode":"ad788caa4749bcdd","fromSide":"bottom","toNode":"4ebee4a872b97f35","toSide":"top","label":"初等变换不改变矩阵的秩"},
+		{"id":"7c5b68852484d177","fromNode":"4ebee4a872b97f35","fromSide":"bottom","toNode":"f342d2fa37474b99","toSide":"top"},
+		{"id":"4126ec293def608d","fromNode":"f342d2fa37474b99","fromSide":"bottom","toNode":"791767b48e67552a","toSide":"top"},
+		{"id":"4b0bdb9a166c840b","fromNode":"4ebee4a872b97f35","fromSide":"bottom","toNode":"32f82d4bc342924b","toSide":"top"},
+		{"id":"21331365d86ff118","fromNode":"32f82d4bc342924b","fromSide":"right","toNode":"bc14b926a194b419","toSide":"left"},
+		{"id":"1156230361c00915","fromNode":"32f82d4bc342924b","fromSide":"bottom","toNode":"5cce66377177edbb","toSide":"top"},
+		{"id":"a5706316f47f08a8","fromNode":"04ed373b9fcc4f87","fromSide":"left","toNode":"de4af9713a0c809f","toSide":"right"},
+		{"id":"b5d9e042f80e96ba","fromNode":"de4af9713a0c809f","fromSide":"left","toNode":"ef028fa4e250ca5f","toSide":"bottom"},
+		{"id":"bb59199043a54630","fromNode":"de4af9713a0c809f","fromSide":"left","toNode":"87d56530fd381ffa","toSide":"right"},
+		{"id":"d4c93f15201446ea","fromNode":"de4af9713a0c809f","fromSide":"left","toNode":"2e9fe88e1bcb759a","toSide":"top"}
+	]
+}
